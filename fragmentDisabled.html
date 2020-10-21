@@ -1,0 +1,6 @@
+
+
+<span th:fragment="input (  myGetName  , name )">
+<label th:text="${name}">nazwa pola</label>
+    <span class="input" type="text"  th:text="${completeItem.__${myGetName}__}"  ></span>
+</span>

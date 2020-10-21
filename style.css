@@ -1,0 +1,6 @@
+html { background-color: #c6c6c6;}
+
+
+span.input { display: block; padding: 5px; border: 1px solid gray; color: #404040; background-color: #d6d6d6;}
+
+div.column { display: block; clear: both; float: left; width: 80%; padding: 5px; margin: 5px; border: 1px solid grey;  }

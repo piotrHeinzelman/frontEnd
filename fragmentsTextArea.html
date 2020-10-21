@@ -1,9 +1,6 @@
-
-
 <span th:fragment="input (  myGetName  , name )">
 <label th:text="${name}">nazwa pola</label>
-<input type="text"  th:value="${completeItem.__${myGetName}__}"
+<textArea type="text"  th:utext="${completeItem.__${myGetName}__}"
        th:id="${completeItem.getCode()+'_'+completeItem.getLangCode()+'_'+completeItem.getIssueId()+'_'+name}"
        th:name="${completeItem.getCode()+'_'+completeItem.getLangCode()+'_'+completeItem.getIssueId()+'_'+name}" />
 </span>
-
