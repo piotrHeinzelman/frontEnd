@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+	 body { background-color: #f0f0f0; text-align: center; border-top: 20px; solid blue; }
+	 input, textarea, button { border: 1px solid #e0e0e0; background-color: #fafafa; width: 200px; margin: 4px; padding: 4px;  text-align: right; }
+	 label { width: 200px; clear: both; }
+	 span { display: block; text-align: right;}
+	 form { width: 300px; margin: auto;}
+
+	 </style>
+</head>
+<body>
+
+<div>
+    <form action="#" th:action="@{'/itemEdit'}" th:object="${itemEditForm}" method="post" enctype="multipart/form-data">
+
+
+    <input th:replace="fragments.html :: input( 'getName2()' ,   'name2' )"/>
+    <input th:replace="fragments.html :: input( 'getDescription2()' ,   'description2' )"/>
+    <input th:replace="fragments.html :: input( 'getName()' ,   'name' )"/>
+    <input th:replace="fragments.html :: input( 'getDescription()' ,   'description' )"/>
+    <input th:replace="fragments.html :: input( 'getDescriptionInline()' ,   'descriptionInline' )"/>
+    <input th:replace="fragments.html :: input( 'getNameInTable()' ,   'nameInTable' )"/>
+
+   <input th:replace="fragments.html :: inputOff( 'getPrice()' ,   'price' )"/>
+
+
+
+            <span><input type="submit" value="Zapisz"/></span>
+        </form>
+</div>
+
+</body>
+</html>
+</html>

@@ -1,0 +1,15 @@
+
+
+<span th:fragment="input (  myGetName  , name )">
+<label th:text="${name}">nazwa pola</label>
+<input type="text"  th:value="${completeItem.__${myGetName}__}"
+       th:id="${completeItem.getCode()+'_'+completeItem.getLangCode()+'_'+completeItem.getIssueId()+'_'+name}"
+       th:name="${completeItem.getCode()+'_'+completeItem.getLangCode()+'_'+completeItem.getIssueId()+'_'+name}" />
+</span>
+
+
+
+<span th:fragment="inputOff (  myGetName  , name )">
+<label th:text="${name}">nazwa pola</label>
+<input type="text"  th:value="${completeItem.__${myGetName}__}"  disabled="disabled"/>
+</span>
