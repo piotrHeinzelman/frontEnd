@@ -1,10 +1,11 @@
  
-		html {
-			font-family: verdana;
-			font-size: 12px;
-		}
+html {
+	font-family: verdana;
+	font-size: 12px;
+	background-color: #c6c6c6;
+}
 
-        div#grid { margin: auto; border: 0px solid gray; margin-left: 10%; margin-right: 10%;  }
+div#grid { margin: auto; border: 0px solid gray; margin-left: 10%; margin-right: 10%;  }
 
         div.row {
         display: grid;
