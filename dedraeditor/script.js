@@ -1,3 +1,4 @@
+alert ('OK');
 // document.addEventListener('DOMContentLoaded', () => {
 //     const btn = document.createElement('button');
 //     btn.classList.add('changeButton');
