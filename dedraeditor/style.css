@@ -1,23 +1,29 @@
- 
+* {	border: 0; 
+	padding: 0;
+}
+
 html {
 	font-family: verdana;
 	font-size: 12px;
 	background-color: #dddddd;
 }
 
-#grid, #gridPL { margin-left: 50px; margin-right: 50px;  }
+#grid, #gridPL { 
+	margin-left: 50px; 
+	margin-right: 50px;  
+}
 
-        div.row {
+div.row {
         display: grid;
         grid-column-gap=3px;
         grid-row-gap=8px;
-
         grid-template-columns: 140px 30px 400px 100px 1px 50px 400px ;
-
         }
+
 #gridPL {
 	margin-top: 50px;	
 }
+
 #table_head {
 	background-color: #aaaaaa;
 	width: 670px;
@@ -29,13 +35,23 @@ html {
 	font-weight: 500; 
 }
 
-    * { border: 0px solid transparent; }
-    input, textarea { padding: 4px; margin: 3px; }
+input, textarea { 
+	padding: 4px; 
+	margin: 3px; 
+}
 
-	span {   text-align: center;  padding-top: 6px;}
+span {
+	text-align: center;  
+	padding-top: 6px;
+}
 
 .blue {	
-	background-color: #2380d2; color: white; font-weight: 600; font-size: 24px; padding: 3px;
+	background-color: #2380d2; 
+	color: white;
+	margin-bottom: 20px;
+	font-weight: 600; 
+	font-size: 24px; 
+	padding: 3px;
 	height: 50px;	
 	line-height: 50px;
 }
@@ -47,8 +63,5 @@ html {
 	.col5 {	grid-column: 5 / 5;	}
 	.col6 {	grid-column: 6 / 6;	color: gray; }
 	.col7 {	grid-column: 7 / 7;	color: gray;  text-align: left;}
-
 	.col14 {	grid-column: 1 / 5;	}
 	.col23 {	grid-column: 1 / 5;	}
-
- 
