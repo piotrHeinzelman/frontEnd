@@ -19,7 +19,7 @@ div.row {
 #gridPL {
 	margin-top: 50px;	
 }
-#table_head {
+#table_head, tab_head {
 	background-color: #aaaaaa;
 	width: 670px;
 	color: white;
@@ -40,7 +40,7 @@ span {
 .blue {	
 	background-color: #2380d2; 
 	color: white;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	font-weight: 600; 
 	font-size: 24px; 
 	padding: 3px;
@@ -50,7 +50,7 @@ span {
 .row_save {
 	height: 50px;	
 }
-row_save input {
+.row_save input {
 	height: 100%;
 	background-color: red;
 	color: white;
