@@ -19,7 +19,7 @@ div.row {
 #gridPL {
 	margin-top: 50px;	
 }
-#table_head, tab_head {
+#table_head, #tab_head {
 	background-color: lightslategray;
 	width: 670px;
 	color: white;
@@ -52,6 +52,7 @@ span {
 }
 .row_save input {
 	height: 100%;
+	margin-top: 20px;
 	background-color: brown;
 	color: white;
 	font-size: 20px;
@@ -59,6 +60,9 @@ span {
 }
 .row_save input:hover {
 	background-color: tomato;
+}
+#gridPL div.row_header {
+	display: none;	
 }
 .col1 {	grid-column: 1 / 1;	 color: gray;  text-align: left;}
 .col2 {	grid-column: 2 / 2;	 color: gray; text-align: center; }
