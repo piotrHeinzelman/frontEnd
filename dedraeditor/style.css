@@ -18,6 +18,16 @@ html {
 #gridPL {
 	margin-top: 50px;	
 }
+#table_head {
+	background-color: #aaaaaa;
+	corlor: white;
+	margin: 20px 0;
+	line-height: 20px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold; 
+}
+
     * { border: 0px solid transparent; }
     input, textarea { padding: 4px; margin: 3px; }
 
