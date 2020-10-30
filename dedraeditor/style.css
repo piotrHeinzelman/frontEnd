@@ -58,7 +58,6 @@ span {
 }
 .row_save input {
 	height: 100%;
-	/* margin-top: 20px; */
     background-color: brown;
     border-radius: 10px;
 	color: white;
@@ -69,7 +68,7 @@ span {
 	background-color: tomato;
 }
 #gridPL div.row_header span {
-	background-color: lightslategray;
+	background-color: lightsteelblue;
 	color: #dddddd;
 }
 #gridPL div#tab_head {
@@ -98,9 +97,12 @@ span {
     width: 400px;
     height: 50px;
     margin-top: 20px;
-    background-color: lightgreen;
+    background-color: limegreen;
     border-radius: 10px;
 	color: white;
 	font-size: 18px;
 	font-weight: 600;  
+}
+#v_hangeButton:hover {
+    background-color: lightslategray;
 }
