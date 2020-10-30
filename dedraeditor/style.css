@@ -15,7 +15,9 @@ html {
         grid-template-columns: 140px 30px 750px  100px 10px  40px auto ;
 
         }
-
+#gridPL {
+	margin-top: 50px;	
+}
     * { border: 0px solid transparent; }
     input, textarea { padding: 4px; margin: 3px; }
 
