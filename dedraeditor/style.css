@@ -47,7 +47,6 @@ html {
 	.col6 {	grid-column: 6 / 6;	color: gray; }
 	.col7 {	grid-column: 7 / 7;	color: gray;  text-align: left;}
 
-	#table_head {   grid-column: 1 / 5;	}
 	.col14 {	grid-column: 1 / 5;	}
 	.col23 {	grid-column: 1 / 4;	}
 
