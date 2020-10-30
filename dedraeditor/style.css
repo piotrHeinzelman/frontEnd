@@ -5,7 +5,7 @@ html {
 	background-color: #c6c6c6;
 }
 
-div#grid { margin: auto; border: 0px solid gray; margin-left: 10%; margin-right: 10%;  }
+#grid, #gridPL { margin: auto; border: 0px solid gray; margin-left: 10%; margin-right: 10%;  }
 
         div.row {
         display: grid;
