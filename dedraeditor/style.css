@@ -4,7 +4,7 @@
 html {
 	font-family: verdana;
 	font-size: 12px;
-	background-color: #dddddd;
+	background-color: #eeeeee;
 }
 #grid, #gridPL { 
 	margin-left: 50px; 
@@ -12,12 +12,12 @@ html {
 }
 div.row {
         display: grid;
-        grid-column-gap=3px;
-        grid-row-gap=8px;
+        grid-column-gap: 3px;
+        grid-row-gap: 8px;
         grid-template-columns: 140px 30px 400px 100px 1px 50px 400px ;
 }
 #gridPL {
-	margin-top: 50px;	
+	margin-top: 20px;	
 }
 #table_head, #tab_head, #komplementrane_head {
 	background-color: lightslategray;
@@ -32,6 +32,9 @@ div.row {
 input, textarea { 
 	padding: 4px; 
 	margin: 3px; 
+}
+textarea {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 span {
 	text-align: center;  
@@ -50,12 +53,16 @@ span {
 .row_save {
 	height: 50px;	
 }
+.row_save {
+    margin-top: 15px;
+}
 .row_save input {
 	height: 100%;
-	margin-top: 20px;
-	background-color: brown;
+	/* margin-top: 20px; */
+    background-color: brown;
+    border-radius: 10px;
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 600;
 }
 .row_save input:hover {
@@ -73,7 +80,27 @@ span {
 .col3 {	grid-column: 3 / 3;	font-size: 14px; }
 .col4 {	grid-column: 4 / 4;	color: gray; text-align: right;}
 .col5 {	grid-column: 5 / 5;	}
-.col6 {	grid-column: 6 / 6;	color: gray; }
-.col7 {	grid-column: 7 / 7;	color: gray;  text-align: left;}
+.col6 {	grid-column: 6 / 6;	color: gray; background-color: lightpink;}
+.col7 {	
+    grid-column: 7 / 7;	
+    background-color: white;
+    color: gray;  
+    text-align: left;
+    padding: 5px;
+    margin: 2px;
+}
 .col14 {	grid-column: 1 / 5;	}
 .col23 {	grid-column: 1 / 5;	}
+
+#v_hangeButton {
+    display: block;
+    margin: 0 0 0 170px;
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+	color: white;
+	font-size: 18px;
+	font-weight: 600;  
+}
