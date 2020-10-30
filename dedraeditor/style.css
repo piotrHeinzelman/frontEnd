@@ -29,7 +29,8 @@ html {
 	font-weight: 500; 
 }
 .blue {
-	height: 80px;	
+	height: 50px;	
+	line-height: 50px;
 }
 
     * { border: 0px solid transparent; }
@@ -48,6 +49,6 @@ html {
 	.col7 {	grid-column: 7 / 7;	color: gray;  text-align: left;}
 
 	.col14 {	grid-column: 1 / 5;	}
-	.col23 {	grid-column: 1 / 4;	}
+	.col23 {	grid-column: 1 / 5;	}
 
  
