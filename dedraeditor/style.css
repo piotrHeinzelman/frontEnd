@@ -65,7 +65,7 @@ span {
 	background-color: lightslategray;
 	color: #dddddd;
 }
-#gridPL div#tab_head:nth-last-of-type() {
+#gridPL div#tab_head {
 	display: none;
 }
 .col1 {	grid-column: 1 / 1;	 color: gray;  text-align: left;}
