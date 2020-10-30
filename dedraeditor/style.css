@@ -19,7 +19,7 @@ div.row {
 #gridPL {
 	margin-top: 50px;	
 }
-#table_head, #tab_head {
+#table_head, #tab_head, #komplementrane_head {
 	background-color: lightslategray;
 	width: 670px;
 	color: white;
