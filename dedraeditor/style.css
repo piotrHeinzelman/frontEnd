@@ -20,12 +20,12 @@ html {
 }
 #table_head {
 	background-color: #aaaaaa;
-	corlor: white;
+	corlor: #ffffff;
 	margin: 20px 0;
 	line-height: 20px;
 	text-align: center;
 	font-size: 16px;
-	font-weight: bold; 
+	font-weight: 400; 
 }
 
     * { border: 0px solid transparent; }
@@ -43,7 +43,7 @@ html {
 	.col6 {	grid-column: 6 / 6;	color: gray; }
 	.col7 {	grid-column: 7 / 7;	color: gray;  text-align: left;}
 
-
+	#table_head {   grid-column: 1 / 5;	}
 	.col14 {	grid-column: 1 / 5;	}
 	.col23 {	grid-column: 2 / 4;	}
 
