@@ -12,7 +12,7 @@ html {
         grid-column-gap=3px;
         grid-row-gap=8px;
 
-        grid-template-columns: 140px 30px 550px 100px 1px 1px 150px ;
+        grid-template-columns: 140px 30px 550px 100px 1px 50px 300px ;
 
         }
 #gridPL {
