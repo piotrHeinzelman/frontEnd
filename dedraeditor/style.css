@@ -2,7 +2,7 @@
 html {
 	font-family: verdana;
 	font-size: 12px;
-	background-color: #c6c6c6;
+	background-color: #dddddd;
 }
 
 #grid, #gridPL { margin: auto; border: 0px solid gray; margin-left: 10%; margin-right: 10%;  }
@@ -12,7 +12,7 @@ html {
         grid-column-gap=3px;
         grid-row-gap=8px;
 
-        grid-template-columns: 140px 30px 750px  100px 10px  40px auto ;
+        grid-template-columns: 140px 30px 550px  100px 10px  150px auto ;
 
         }
 #gridPL {
