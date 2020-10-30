@@ -1,12 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const btn = document.createElement('button');
-    const btn1 = document.createElement('button');
     btn.classList.add('changeButton');
-    btn1.classList.add('changeButton');
     btn.setAttribute('id', 'v_hangeButton');
-    btn1.setAttribute('id', 'h_hangeButton');
     btn.innerText = '|| zamień dane';
-    btn1.innerText = '––';
 
     const langForm = document.querySelector('form');
     langForm.setAttribute('action', '');
