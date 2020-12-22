@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+
+
+<link rel="stylesheet" href="style/style.css"/>
+ 
+
+<script>
+function myClick()
+{
+
+var y = document.getElementById('WSZYSTKO').innerHTML;
+
+
+    y = y.replace('&lt;', '%26lt;');
+    y = y.replace('&gt;', '%26gt;');
+    y = y.replace('&amp;', '%26');
+    y = y.replace('&nbsp;', ' ');
+    y = y.replace('&', '%26');
+	
+	    y = "frameId=1001123456&contents=abcdef1";
+alert ( y ) ;
+
+var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (xhttp.readyState == 4 && xhttp.status == 200) {
+
+	 document.getElementById('WSZYSTKO').style.opacity = "0.2";  location.reload(true);//+ xhttp.responseText) ;
+     //document.getElementById("WSZYSTKO").innerHTML = xhttp.responseText;
+    }
+	else exit;
+  };
+  xhttp.open("POST", "https://192.168.1.30/sw3/castoWrite", false);
+  xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  xhttp.setRequestHeader("Authorization", "Basic Y2FzdG86Y2FzdG8=");
+  xhttp.setRequestHeader("Connection", "keep-alive");
+  xhttp.setRequestHeader("Content-Length", "30");  
+  
+  xhttp.send( y );
+}
+</script>
+
+</head>
+
+<body id="body">
+<div id="logo">
+</div>
+<div id="WSZYSTKO">
+<div class="xmlFrame" label="1001123456" ident="1001123456" contenteditable="true">
+
+
+
+<p class="PRODUKT Opis GREP" characterclass="[None]" color="Black" tracking="-30" style="color: rgb(Black);">
+<span class="[None]" color="Black" tracking="-30" style="color: rgb(Black);">46,78</span>
+</p>
+<p class="PRODUKT Opis GREP" characterclass="PRODUKT OPIS Nazwa" color="Black" tracking="-25" style="color: rgb(Black);">
+<span class="PRODUKT OPIS Nazwa" color="Black" tracking="-25" style="color: rgb(Black);">Farba na różne powierzchnie V33 Direct Protect L</span></p>
+<p class="PRODUKT Opis" characterclass="[None]" color="Black" tracking="-20" style="color: rgb(Black);"><span class="[None]" color="Black" tracking="-20" style="color: rgb(Black);">
+antracyt 0,75</span></p><p class="PRODUKT Opis" characterclass="[None]" color="Black" tracking="-20" style="color: rgb(Black);"><span class="[None]" color="Black" tracking="-20" style="color: rgb(Black);">kod
+ 737281, dostępne także: kod 737279, kod 737284, kod 737278, kod 737282,
+ kod 737288, kod 737275, kod 737290, kod 737277, kod 737283, kod 737286,
+ kod 737287, kod 737274, kod 737285, kod 737273, kod 737289, kod 737280,
+ kod 737276</span></p>
+ 
+
+
+ 
+ 
+</div></div>
+<div id="buttons">
+<button onclick="myClick();" style="margin: auto;">save</button>
+<button onclick="location.reload(true);">refresh</button>
+</div>
+
+</body></html>
