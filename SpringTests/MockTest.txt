@@ -1,0 +1,31 @@
+@ExtendWith( MockitoExtension.class )
+
+class ServiceTest {
+
+    @Mock
+    OwnerRepo ownerRepo;
+
+    @Mock
+    PetRepo petRepo;
+
+    @InjectMocks
+    OwnerService service;
+
+
+    @Test
+    void findLastNAme() {
+
+    Owner returnOwner = Owner.builder().id(1l),lastName("Smith").build();
+
+    when ( ownerRepo.findByLasName(  any())) thenReturn ( returnOwner );
+
+    Owner smith = service.findByLastName ( "Smith");
+
+    assertEquals ( "Smith" , smith.getLastName() );
+
+    }
+
+
+
+}
+
