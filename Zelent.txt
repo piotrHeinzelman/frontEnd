@@ -8,6 +8,9 @@ muza
 https://www.youtube.com/watch?v=RyQxyzth6c4
 https://www.youtube.com/watch?v=2Sy7vIinIV0
 
+Qt C++
+http://programmingexamples.wikidot.com/qt-essentials
+
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
