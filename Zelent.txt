@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=c5K1VoTRK5U
 Dywergencja i rotacja
 https://www.youtube.com/watch?v=rB83DpBJQsE
 
+muza
+https://www.youtube.com/watch?v=RyQxyzth6c4
+
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
