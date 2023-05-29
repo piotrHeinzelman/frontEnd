@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=RyQxyzth6c4
 https://www.youtube.com/watch?v=2Sy7vIinIV0
 https://www.youtube.com/watch?v=8Ox84dt3N2Y&list=RDK8_7Hr7If3I&index=3
 https://www.youtube.com/watch?v=A9ew7glBHy0&t=1996s
+https://www.youtube.com/watch?v=i1BMGAfAnNs
 
 Qt C++
 http://programmingexamples.wikidot.com/qt-essentials
