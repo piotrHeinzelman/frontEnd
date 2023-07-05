@@ -44,6 +44,10 @@ Qt C++
 http://programmingexamples.wikidot.com/qt-essentials
 
 
+SU/DO
+https://www.youtube.com/watch?v=mvvrguzViYY
+
+
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
 
