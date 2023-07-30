@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=ITKSU2zAZqI
 Qt C++
 http://programmingexamples.wikidot.com/qt-essentials
 
+Ubuntu
+https://wiki.ubuntu.com/HardwareIdentification
+
 
 SU/DO
 https://www.youtube.com/watch?v=mvvrguzViYY
