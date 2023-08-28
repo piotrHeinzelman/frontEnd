@@ -15,6 +15,8 @@ https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
 
 https://cpp0x.pl/kursy/Kurs-SFML-1-6-C++/Wczytywanie-i-zapisywanie-plikow-graficznych/332
 https://cpp0x.pl/kursy/Wyswietlanie-sprite-039-ow/96
+graph.h
+https://www.educba.com/c-plus-plus-graphics/
 
 Gynveil
 PCI Express to He
