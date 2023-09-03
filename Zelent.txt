@@ -24,6 +24,9 @@ https://www.educba.com/c-plus-plus-graphics/
 6502 emulator in C
 https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
 
+graphics.h
+https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
+
 Gynveil
 PCI Express to He
 https://www.youtube.com/watch?v=fE0fnGbI8B8
