@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
 graphics.h
 https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
 
+cMake info
+https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html
+
 Gynveil
 PCI Express to He
 https://www.youtube.com/watch?v=fE0fnGbI8B8
