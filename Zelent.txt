@@ -21,6 +21,9 @@ https://cpp0x.pl/kursy/Wyswietlanie-sprite-039-ow/96
 graph.h
 https://www.educba.com/c-plus-plus-graphics/
 
+6502 emulator in C
+https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
+
 Gynveil
 PCI Express to He
 https://www.youtube.com/watch?v=fE0fnGbI8B8
