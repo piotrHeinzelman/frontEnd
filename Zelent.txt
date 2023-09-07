@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=mvvrguzViYY
 VMvare 
 https://www.youtube.com/watch?v=LGAZcoCISes
 
+YomaTech
+https://www.youtube.com/watch?v=Rgx8dpiPwpA
+https://www.youtube.com/@jomaoppa
+
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
