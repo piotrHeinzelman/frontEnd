@@ -21,6 +21,9 @@ https://cpp0x.pl/kursy/Wyswietlanie-sprite-039-ow/96
 graph.h
 https://www.educba.com/c-plus-plus-graphics/
 
+MS Graphcs
+https://learn.microsoft.com/en-us/windows/win32/learnwin32/overview-of-the-windows-graphics-architecture
+
 6502 emulator in C
 https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
 
