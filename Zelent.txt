@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
 
 graphics.h
 https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
+https://learn.microsoft.com/pl-pl/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=msvc-170
 
 cMake info
 https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html
