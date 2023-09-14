@@ -16,6 +16,9 @@ c++
 https://hackingcpp.com/cpp/lang/fundamental_types.html
 https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
 
+VisualStudio
+https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&passive=true&tailored=cplus&cid=2031#cplusplus
+
 https://cpp0x.pl/kursy/Kurs-SFML-1-6-C++/Wczytywanie-i-zapisywanie-plikow-graficznych/332
 https://cpp0x.pl/kursy/Wyswietlanie-sprite-039-ow/96
 graph.h
