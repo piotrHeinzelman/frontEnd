@@ -87,6 +87,7 @@ http://programmingexamples.wikidot.com/qt-essentials
 
 Ubuntu
 https://wiki.ubuntu.com/HardwareIdentification
+https://pl.wikibooks.org/wiki/Ubuntu/Podstawowe_polecenia#Operacje_na_archiwach
 
 
 SU/DO
