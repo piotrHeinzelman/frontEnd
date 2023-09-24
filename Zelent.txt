@@ -15,6 +15,10 @@ https://www.youtube.com/watch?v=b0zxIfJJLAY
 c++
 https://hackingcpp.com/cpp/lang/fundamental_types.html
 https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
+  libs
+  https://en.cppreference.com/w/cpp/links/libs
+
+
 
 VisualStudio
 https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&passive=true&tailored=cplus&cid=2031#cplusplus
@@ -33,6 +37,12 @@ https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
 graphics.h
 https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
 https://learn.microsoft.com/pl-pl/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=msvc-170
+
+graphics  About SDL
+https://www.libsdl.org/
+
+
+
 
 cMake info
 https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html
