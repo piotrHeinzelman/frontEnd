@@ -17,6 +17,8 @@ https://hackingcpp.com/cpp/lang/fundamental_types.html
 https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
   libs
   https://en.cppreference.com/w/cpp/links/libs
+minGW
+https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html
 
 
 
