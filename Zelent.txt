@@ -42,6 +42,10 @@ graphics  About SDL
 https://www.libsdl.org/
 
 
+JAVA-GRAPHIC LIB
+https://horstmann.com/sjsu/graphics/
+https://www.lwjgl.org/#learn-more
+https://github.com/topics/graphics-library?l=java
 
 
 cMake info
