@@ -103,6 +103,9 @@ Czerw nowy debiut
 https://www.youtube.com/watch?v=He3OgczODRc
 https://www.youtube.com/watch?v=ITKSU2zAZqI
 
+MSSQL Dump
+https://en-wiki.ikoula.com/en/Create_a_dump_with_SQL_Server
+
 Qt C++
 http://programmingexamples.wikidot.com/qt-essentials
 
