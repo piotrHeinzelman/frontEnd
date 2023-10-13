@@ -45,7 +45,8 @@ https://learn.microsoft.com/pl-pl/cpp/windows/walkthrough-creating-windows-deskt
 graphics  About SDL
 https://www.libsdl.org/
 
-
+JAVA - PW
+https://www.if.pw.edu.pl/~ertman/pojava/?Laboratorium_4:Klasa_JOptionPane
 JAVA-GRAPHIC LIB
 https://horstmann.com/sjsu/graphics/
 https://www.lwjgl.org/#learn-more
