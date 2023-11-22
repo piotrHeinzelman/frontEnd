@@ -139,6 +139,7 @@ YomaTech
 https://www.youtube.com/watch?v=Rgx8dpiPwpA
 https://www.youtube.com/@jomaoppa
 https://www.youtube.com/watch?v=sW9npZVpiMI            <- donut
+https://www.youtube.com/watch?v=p09i_hoFdd0            <- rotate box programing
 
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
