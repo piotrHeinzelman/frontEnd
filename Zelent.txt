@@ -124,6 +124,9 @@ https://en-wiki.ikoula.com/en/Create_a_dump_with_SQL_Server
 Qt C++
 http://programmingexamples.wikidot.com/qt-essentials
 
+C - machine learning
+https://www.youtube.com/watch?v=PGSba51aRYU
+
 Ubuntu
 https://wiki.ubuntu.com/HardwareIdentification
 https://pl.wikibooks.org/wiki/Ubuntu/Podstawowe_polecenia#Operacje_na_archiwach
