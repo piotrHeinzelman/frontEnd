@@ -22,6 +22,12 @@ https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
 minGW
 https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html
 
+BOOTLOADER w STM32
+https://www.youtube.com/watch?v=Fvg8vmV8GE8
+
+C++ first person shooter
+https://www.youtube.com/watch?v=HEb2akswCcw
+
 
 
 VisualStudio
