@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=U4ogK0MIzqk
 Arduino
 https://www.youtube.com/watch?v=bnUpMtUWlvM
 https://www.youtube.com/watch?v=lkTzpQrp1Us
+8-Bit Adder
+https://www.youtube.com/watch?v=X31B1pVow1o
 
 
 VisualStudio
