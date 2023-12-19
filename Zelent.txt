@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=qkLRLNVOq3w
 
 ASM
 https://www.youtube.com/watch?v=b0zxIfJJLAY
+ping in asm :- ) https://www.youtube.com/watch?v=SxtX0VWZuME
 
 c++
 https://hackingcpp.com/cpp/lang/fundamental_types.html
