@@ -96,6 +96,8 @@ https://www.youtube.com/watch?v=cvWEYkU0r8o
 https://www.youtube.com/watch?v=VFrwlDLo3gs&t=8s
 https://www.youtube.com/watch?v=CDyJOnjpMyY
 
+
+
 Celtic
 https://www.youtube.com/watch?v=icPnn6W_kbM
 https://www.youtube.com/watch?v=h_-AHeGO-bE
@@ -174,7 +176,8 @@ https://www.youtube.com/watch?v=w8yWXqWQYmU
 https://www.youtube.com/watch?v=0QczhVg5HaI
 https://www.youtube.com/watch?v=Ixl3nykKG9M
 https://home.agh.edu.pl/~tad/
-
+trenowanie
+https://www.youtube.com/watch?v=IC_Dx0J8Fv8
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
