@@ -186,6 +186,8 @@ https://www.youtube.com/watch?v=r5NQecwZs1A
 wnioskowanie
 https://www.youtube.com/watch?v=WO1gml0EkQI
 
+Jetson
+https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT?fbclid=IwAR2vIwRkDms5CYp_yhwRxGKp0Sx-jg3Oi-MrkmMkfcNvBUQvYMGBXyKBxE8
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
