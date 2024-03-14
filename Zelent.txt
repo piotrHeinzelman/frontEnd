@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=Fvg8vmV8GE8
 
 C++ first person shooter
 https://www.youtube.com/watch?v=HEb2akswCcw
+C++ NeuralNetwork
+https://www.youtube.com/watch?v=k_VdZVJeEyg
+
+
 
 Chess
 https://www.youtube.com/watch?v=U4ogK0MIzqk
