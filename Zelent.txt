@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=qkLRLNVOq3w
 ASM
 https://www.youtube.com/watch?v=b0zxIfJJLAY
 ping in asm :- ) https://www.youtube.com/watch?v=SxtX0VWZuME
+memory allocation C++, C, ASM
+https://www.youtube.com/watch?v=HlUBE70h2C0
 
 c++
 https://hackingcpp.com/cpp/lang/fundamental_types.html
