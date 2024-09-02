@@ -208,6 +208,7 @@ https://www.aaeon.com/en/p/ai-edge-solutions-boxer-8640ai?dl=datasheet&fbclid=Iw
 
 konwersja maszyn fizycznych na wirtualne (konwersja partycji)
 https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
+https://www.baeldung.com/linux/virtualbox-create-vm-from-physical
 
 
 
