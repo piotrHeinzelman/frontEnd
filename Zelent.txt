@@ -273,4 +273,9 @@ foreach ($uuidValue in $uuidValues) {
 https://williamlam.com/2023/05/quick-tip-preserving-machineguid-in-windows-using-vcenter-converter.html
 
 
+wmic path win32_computersystemproduct get UUID
+UUID
+035E02D8-04D3-0501-D506-410700080009
 
+
+C:\Users\John>
