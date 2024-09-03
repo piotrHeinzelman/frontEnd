@@ -285,5 +285,7 @@ DigitalProductId
 00359-OEM-9828611-20151
 
 
+DiscClass={4d36e967-e325-11ce-bfc1-08002be10318}
+STORAGE\Volume\{b818a9ae-d017-11ec-9254-806e6f6e6963}#0000000000100000
 
-C:\Users\John>
+
