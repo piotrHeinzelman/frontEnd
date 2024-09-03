@@ -232,8 +232,8 @@ you can then use the resulting ubuntu.vdi as a Virtualbox drive. Just make sure 
 
 
 
-
-
+w10
+Computer/HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography : MachineGiud
 
 
 https://williamlam.com/2023/05/quick-tip-preserving-machineguid-in-windows-using-vcenter-converter.html
