@@ -228,3 +228,49 @@ VBoxManage convertdd PATH_TO_ubuntu.bin ubuntu.vdi --format VDI
 
 you can then use the resulting ubuntu.vdi as a Virtualbox drive. Just make sure you have plenty of time and hard drive space for this operation. A little tip: commandline tasks can be suspended by hitting Ctrl+Z. The operation will go to sleep, and you can use you computer again. When you are interested in resuming the process, type fg in the terminal, and the operation will resume. Quite handy for long operations like this.
 
+
+
+
+
+
+
+
+
+https://williamlam.com/2023/05/quick-tip-preserving-machineguid-in-windows-using-vcenter-converter.html
+
+windows 7 p2v with same uuid
+When performing a P2V (Physical-to-Virtual) migration of a Windows 7 machine, maintaining the same UUID is crucial for various reasons, including preserving software activation and ensuring compatibility with certain applications. Based on the search results and analysis, here’s what you can expect:
+
+The BIOS UUID, also known as the System UUID or FIRMWARE UUID, is typically set by the motherboard vendor and is unique to the physical machine. It is not directly related to the Windows operating system.
+When cloning the physical machine to a virtual one, the BIOS UUID will likely change, as the virtual machine’s firmware is different from the physical machine’s.
+The Windows OS UUID, on the other hand, is set during installation and can be changed using the wmic csproduct get uuid command or through the Windows Registry. This UUID is used for Windows activation and software licensing.
+To maintain the same UUID for Windows 7 during P2V migration, you can:
+
+Use a third-party tool, such as VMware vCenter Converter or Microsoft’s own Microsoft Assessment and Planning Toolkit (MAP), which can preserve the Windows OS UUID during the migration process.
+Manually export and reapply the Windows Registry values related to the UUID using the reg command or a registry editor like Regedit.
+Re-activate Windows 7 using the original product key after the migration, as the new virtual machine will have a different hardware configuration.
+In summary, while the BIOS UUID will change during P2V migration, you can take steps to preserve the Windows OS UUID and ensure a seamless transition to the virtual environment.
+
+Here’s a code example in PowerShell to export and reapply the Windows OS UUID Registry values:
+
+# Export current UUID Registry values
+$uuidRegKeys = @(
+  "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\UUid",
+  "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\VolumeUUID"
+)
+$uuidValues = @()
+foreach ($regKey in $uuidRegKeys) {
+  $uuidValue = (Get-ItemProperty -Path $regKey).UUid
+  $uuidValues += $uuidValue
+}
+
+# Reapply UUID Registry values on the virtual machine
+foreach ($uuidValue in $uuidValues) {
+  Set-ItemProperty -Path $regKey -Name UUid -Value $uuidValue
+}
+
+
+https://williamlam.com/2023/05/quick-tip-preserving-machineguid-in-windows-using-vcenter-converter.html
+
+
+
