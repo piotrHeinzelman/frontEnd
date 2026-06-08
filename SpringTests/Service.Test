@@ -1,0 +1,48 @@
+package com.heinzelman.dedra.service;
+
+
+import com.heinzelman.dedra.model.IdCode;
+import org.junit.jupiter.api.*;
+import org.mockito.internal.util.collections.Iterables;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.junit.jupiter.api.Test;
+
+import java.util.*;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+
+@SpringBootTest
+class IdCodeServiceTest {
+
+    @Autowired
+    IdCodeService idCodeService;
+
+
+    @BeforeEach
+    void setUp() {
+    }
+
+    @AfterEach
+    void tearDown() {
+    }
+
+    @Test
+    void create_GetFromDB_OrSaveNewInDB_UpCASE(){
+        String code = "myCreateCode123";
+        IdCode saved = idCodeService.create( code );
+        assertNotNull( saved );
+
+        IdCode savedSameCode = idCodeService.create( code );
+        assertEquals( saved , savedSameCode );
+
+               savedSameCode = idCodeService.create( code.toUpperCase() );
+        assertEquals( saved , savedSameCode );
+
+
+                code += "/ !t\\e'Co\"d-e123";
+        IdCode crazy = idCodeService.create( code );
+        assertNotNull( crazy );
+        assertTrue ( crazy.getId() > 0L );
+    }

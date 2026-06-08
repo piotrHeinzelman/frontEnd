@@ -1,0 +1,108 @@
+* {	border: 0; 
+	padding: 0;
+}
+html {
+	font-family: verdana;
+	font-size: 12px;
+	background-color: #eeeeee;
+}
+#grid, #gridPL { 
+	margin-left: 50px; 
+	margin-right: 50px;  
+}
+div.row {
+        display: grid;
+        grid-column-gap: 3px;
+        grid-row-gap: 8px;
+        grid-template-columns: 140px 30px 400px 100px 1px 50px 400px ;
+}
+#gridPL {
+	margin-top: 20px;	
+}
+#table_head, #tab_head, #komplementrane_head {
+	background-color: lightslategray;
+	width: 670px;
+	color: white;
+	margin: 20px 0 10px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 500; 
+}
+input, textarea { 
+	padding: 4px; 
+	margin: 3px; 
+}
+textarea {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span {
+	text-align: center;  
+	padding-top: 6px;
+}
+.blue {	
+	background-color: #2380d2; 
+	color: white;
+	margin-bottom: 10px;
+	font-weight: 600; 
+	font-size: 24px; 
+	padding: 3px;
+	height: 50px;	
+	line-height: 50px;
+}
+.row_save {
+	height: 50px;	
+}
+.row_save {
+    margin-top: 15px;
+}
+.row_save input {
+	height: 100%;
+    background-color: brown;
+    border-radius: 10px;
+	color: white;
+	font-size: 18px;
+	font-weight: 600;
+}
+.row_save input:hover {
+	background-color: tomato;
+}
+#gridPL div.row_header span {
+	background-color: lightsteelblue;
+	color: #dddddd;
+}
+#gridPL div#tab_head {
+	display: none;
+}
+.col1 {	grid-column: 1 / 1;	 color: gray;  text-align: left;}
+.col2 {	grid-column: 2 / 2;	 color: gray; text-align: center; }
+.col3 {	grid-column: 3 / 3;	font-size: 14px; }
+.col4 {	grid-column: 4 / 4;	color: gray; text-align: right;}
+.col5 {	grid-column: 5 / 5;	}
+.col6 {	grid-column: 6 / 6;	color: gray; background-color: lightpink;}
+.col7 {	
+    grid-column: 7 / 7;	
+    background-color: white;
+    color: gray;  
+    text-align: left;
+    padding: 5px;
+    margin: 2px;
+}
+.col14 {	grid-column: 1 / 5;	}
+.col23 {	grid-column: 1 / 5;	}
+
+#v_hangeButton {
+    display: block;
+    margin: 0 0 0 170px;
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: limegreen;
+    border-radius: 10px;
+	color: white;
+	font-size: 18px;
+	font-weight: 600;  
+}
+#v_hangeButton:hover {
+    background-color: lightslategray;
+}

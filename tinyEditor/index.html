@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script    type="text/javascript"    src="js/tinymce/tinymce.min.js"    referrerpolicy="origin">
+  </script>
+  
+  <style>
+  body { background-color: #efefef; }
+ .tox-edit-area__iframe { border: 3px dotted red; background-color: red; }
+  </style>
+  
+  
+  <script>
+  
+
+// JavaScript code:
+document.getElementsByClassName("active")[0].parentNode;
+
+// jQuery code:
+$('.active').parent().get(0); // This would be the <a>'s parent <li>.
+
+
+$ul li:hover{
+    background: #fff;
+}
+
+a < img { border: none; }
+
+li < a.active {
+    property: value;
+}
+
+li:has(> a.active) { /* styles to apply to the li tag */ }
+  
+  
+  .tox-editor-header { display: none; }  
+  div.tox-tinymce { background-color: red;}
+  
+  .tox-editor-container:hover>.tox-editor-header   { display: block;  margin-top: -0px }
+  
+  
+  div.tox-tinymce { background-color: transparent;   }
+  div.tox-tinymce:hover   {  margin-top: -39px; border: 1px solid lightgrey ;  }  
+
+ </script>
+  
+  
+  <script type="text/javascript">
+  tinymce.init({
+    selector: '.myTextarea',
+    width: 600,
+    height: 100,
+	
+	plugins: [  'code  lists  preview code fullscreen nonbreaking paste help undo redo autoresize tabfocus '  ],
+	
+ 
+ 
+	
+	branding: false,
+	statusbar: false,	
+	menubar: '',
+	toolbar: ' bold italic underline h2 h3 h4 code  fullscreen ',	
+
+    content_css: 'style/content.css',
+	
+	resize: false,
+	test: 'both',	
+	autoresize_bottom_margin: 10,	
+	style_formats_autohide: true,
+  });
+  </script>
+</head>
+
+<body>
+
+<br/><br/><br/>
+  <textarea class="myTextarea">abcdef</textarea>
+  
+  <br/>
+  
+  <textarea class="myTextarea">abcdef</textarea>
+  
+  <br/>
+ <textarea class="myTextarea">abcdef</textarea>
+  
+  </body>
+</html>

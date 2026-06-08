@@ -1,0 +1,343 @@
+body {
+behavior: url(csshover.htc); 
+margin: 0px; 
+padding: 0px; 
+border: 0px; 
+background-color: transparent; 
+text-decoration: none;  
+background-image: url('3.jpg'); 
+background-position: 50% 0%; 
+background-repeat: no-repeat; 
+font-family: UbuntuLight, Arial, Helvetica, sans-serif; 
+width: 980px;   
+height: 100%;
+position: relative; 
+left: 50%; 
+margin-left: -490px;
+}
+
+table, caption, tbody, tfoot, thead, tr, th, td,a,a:hover,a:active, a:visited, a:link { 
+border:0; 
+outline:0; 
+margin: 0px; 
+padding: 0px; 
+}
+
+
+
+
+
+#jezyki {
+position: relative; 
+float: right;margin-top: 15px; 
+}
+
+#jezyki a {
+text-decoration: none; 
+font-size: 11px; 
+padding-left: 5px; 
+padding-right: 5px; 
+padding-top: 2px; 
+padding-bottom: 2px;  
+margin-left: 5px; 
+margin-right: 5px;  
+}
+
+#jezyki a:hover {  
+background-color: rgba(55,49,135,0.2);
+}
+
+
+#szukaj  input{
+position: absolute; 
+right: 90px; 
+top: 50px;
+background-color: #2d2673; 
+background-color: rgba(0,0,0,0.1); 
+border: 0px; 
+padding-left: 30px; 
+width: 270px;  
+height: 29px;
+font-family: UbuntuRegular, Arial, Helvetica, sans-serif; 
+font-size: 13px; 
+line-height: 24px; 
+background-image: url('img/lupa.png');
+}
+
+#szukaj  button{
+position: absolute; 
+right: 0px; 
+top: 50px;
+background-color: #2d2673; 
+background-color:rgba(55,49,135,1); 
+border: 0px; 
+width: 73px;  
+height: 33px;
+font-family: UbuntuRegular, Arial, Helvetica, sans-serif;
+font-size: 13px;
+color: white;
+text-shadow: -1px -1px 0.5px rgba(0,0,0,1);
+}
+
+
+#menu { text-align: center;  z-index: 10; position: absolute;  left: 0px;  top: 99px;}
+#menu a {font-size: 13px; font-family: UbuntuRegular, Arial, Helvetica, sans-serif;  text-decoration: none; margin: 0px; padding: 0px;  line-height: 38px; height: 38px;  display: block; background-color: transparent; }
+#menu ul li ul li a {font-size: 13px; font-family: UbuntuRegular, Arial, Helvetica, sans-serif; text-decoration: none; margin: 0px;  text-shadow: -1px -1px 0.5px rgba(0,0,0,1);  color: rgba(255,255,255,1); width: 195px;  }
+#menu ul li ul li :hover {background-color: #2d2673; background-color: rgba(55,49,135,1);}
+#menu ul, #menu li {margin: 0px; padding: 0px; border: 0px; display: block; float: left;  text-align: center;}  #menu ul ul li {  clear: left;  }
+#menu ul ul {display: none;} #menu li:hover > ul {display: block;} #menu li:hover ul {display: block;}
+#menu ul li ul { width: 220px; position: absolute; z-index: 10;} 
+#menu a,  #menu a:visited  {color: white;}
+#menu a:hover {color: white;}
+
+#menu a,  #menu a:visited {background-color: transparent;}
+#menu a:hover {background-color: transparent;}
+
+#menu ul {background-color: #373187; background-color: rgba(55,49,135,1);}
+#menu ul li ul {background-color: rgba(55,49,135,0.85);}
+
+#menu ul li a {border-right: 1px solid #5f5a9f;  }
+#menu ul li ul li {border-bottom: 1px solid #5f5a9f;}
+#menu ul li ul li a { border-right: 0px;  padding-left: 25px;  text-align: left;  background-image: url('bullet.png'); background-position: 0% 50%; background-repeat: no-repeat; height: 33px; line-height: 33px; }
+
+#menu a.home {width: 60px; padding-left: 0px; padding-right: 0px; }
+#menu a.onas {width: 145px; padding-left: 0px; padding-right: 0px; }
+#menu a.uslugi {width: 145px; padding-left: 0px; padding-right: 0px; }
+#menu a.branze {width: 156px; padding-left: 0px; padding-right: 0px; }
+#menu a.aktualnosci {width: 157px; padding-left: 0px; padding-right: 0px; }
+#menu a.galeria {width: 155px; padding-left: 0px; padding-right: 0px; }
+#menu a.kontakt {width: 155px; padding-left: 0px; padding-right: 0px; }
+
+#logo { left: 0px; top: 0px; height: 99px; }
+
+
+#motto {overflow: inherit; overflow: hidden; width: 980px; height: 401px;  margin-top: 37px;  }
+#motto2  {width: 504px; height: 127px; background-image: url('motto.png'); position: absolute; top: 391px; left: 17px; }
+#motto2 p {padding-left: 50px; font-size: 13px;  line-height: 19px;color: white; text-shadow: -1px -1px 0.5px rgba(0,0,0,1); }
+#motto2 h2 {     padding-top: 5px; margin-bottom: -3px; font-weight: normal; font-size: 24px;  color: white;padding-left: 50px;}
+
+
+#head { width: 1900px;overflow: hidden;  }
+#head2{width: 980px;}
+#head img.img{ float: left; }
+#hide { top: 0px; left: 0px; height: 1px; width: 1px; overflow: hide;}
+
+#pasek { width: 980px; height: 9px; background-image: url('pasek.png'); background-position: 0% 0%; background-repeat: no-repeat;position: absolute; right: 0px;  top: 537px;}
+
+
+
+
+
+
+#right {margin-top: 24px;  width: 356px; float: right;  }
+#left {margin-top: 24px; width: 590px;  float: left;  }
+#center {margin-top: 24px;  width: 890px;  float: left;  }
+#foot { width: 980px; clear: both; float: left; margin-top: 25px;}
+
+
+
+
+DIV#right h2 {   font-family: ArvoRegular, Arial, Helvetica, sans-serif;      font-weight: normal; font-size: 25px; line-height: 25px; padding: 0px; margin: 0px; padding-bottom: 7px; }
+DIV#right h2.linia {width: 100%; padding-bottom: 15px; border-bottom: 1px solid black; margin-top: 20px; }
+DIV#right h2.komentarze {width: 100%; padding-bottom: 15px; border-bottom: 1px solid black; margin-top: 40px; }
+DIV#right h3 {font-weight: bold; font-family: UbuntuBold, Arial, Helvetica, sans-serif;  color: #2d2673; color: rgba(0,0,0,0.1);  font-size: 17px; line-height: 17px; padding: 0px; margin: 0px; margin-top: 18px; color: #2d2673;  color:rgba(55,49,135,1);  }
+DIV#right span.data {font-size: 15px; font-family: UbuntuLight Arial, Helvetica, sans-serif; color: black; margin-left: 106px;}
+DIV#right span.data a{text-decoration: none; font-size: 15px; font-family: UbuntuBold, Arial, Helvetica, sans-serif; float: right; color: #2d2673; }
+DIV#right p {width: 250px; margin-left: 106px; font-size: 14.4px; font-family: UbuntuRegular, Arial, Helvetica, sans-serif; }
+DIV#right img {float: left; width: 90px; height: 90px; border: 1px solid black; margin-right: 10px; }
+
+
+
+
+
+DIV#zakladka {margin-top: 32px; border-bottom: 1px solid black; height: 28px;  }
+DIV#left a { font-size: 15px; line-height: 30px; font-family: UbuntuRegular, Arial, Helvetica, sans-serif;  text-align: center; text-decoration: none;border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; width: 117px; margin-right: 3px; display: inline; float: left; height: 27px; border-bottom: 2px solid white; }
+DIV#left a.blue {background-color: #2d2673;  background-color:rgba(55,49,135,1);  color: white; border: 0px; border-bottom: 1px solid #2d2673;}
+
+
+DIV#left  p.kwadrat { padding: 10px; padding-top: 20px; font-size: 14px; line-height: 15px; font-family: UbuntuLight, Arial, Helvetica, sans-serif;  width: 174px; height: 134px; padding; 0px; margin: 0px;  border: 1px solid white; float: left;  }
+DIV#left  p.kwadrat  b {    font-family: ArvoRegular, Arial, Helvetica, sans-serif;        color: #2d2673;  font-weight: normal;  font-size: 18px; line-height: 17px; display: block; height: 40px; }
+DIV#left  p.kwadrat  img {float: right; position: relative; margin-right: 5px; margin-top: -5px;}
+
+
+h2 { font-family: UbuntuLight, Arial, Helvetica, sans-serif;  }
+DIV#menu_left { width: 225px;  }
+DIV#menu_left h2 {  font-family: ArvoRegular, Arial, Helvetica, sans-serif;     margin-top: 35px;   }
+DIV#menu_left a {padding-left: 15px;  font-size: 14px; line-height: 32px;  display: block; height: 32px; text-decoration: none; border-top: 1px solid #c6c6c6; font-family: UbuntuBold, Arial, Helvetica, sans-serif; }
+DIV#menu_left a:hover {background-color: #2d2673;  background-color:rgba(55,49,135,1);  color: white;  }
+
+
+
+@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('font/Ubuntu-R-webfont.eot');
+    src: url('font/Ubuntu-R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-R-webfont.woff') format('woff'),
+         url('font/Ubuntu-R-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-R-webfont.svg#UbuntuRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuItalic';
+    src: url('font/Ubuntu-RI-webfont.eot');
+    src: url('font/Ubuntu-RI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-RI-webfont.woff') format('woff'),
+         url('font/Ubuntu-RI-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-RI-webfont.svg#UbuntuItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuBold';
+    src: url('font/Ubuntu-B-webfont.eot');
+    src: url('font/Ubuntu-B-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-B-webfont.woff') format('woff'),
+         url('font/Ubuntu-B-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-B-webfont.svg#UbuntuBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuBoldItalic';
+    src: url('font/Ubuntu-BI-webfont.eot');
+    src: url('font/Ubuntu-BI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-BI-webfont.woff') format('woff'),
+         url('font/Ubuntu-BI-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-BI-webfont.svg#UbuntuBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuLight';
+    src: url('font/Ubuntu-L-webfont.eot');
+    src: url('font/Ubuntu-L-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-L-webfont.woff') format('woff'),
+         url('font/Ubuntu-L-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-L-webfont.svg#UbuntuLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuLightItalic';
+    src: url('font/Ubuntu-LI-webfont.eot');
+    src: url('font/Ubuntu-LI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-LI-webfont.woff') format('woff'),
+         url('font/Ubuntu-LI-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-LI-webfont.svg#UbuntuLightItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuMedium';
+    src: url('font/Ubuntu-M-webfont.eot');
+    src: url('font/Ubuntu-M-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-M-webfont.woff') format('woff'),
+         url('font/Ubuntu-M-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-M-webfont.svg#UbuntuMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuMediumItalic';
+    src: url('font/Ubuntu-MI-webfont.eot');
+    src: url('font/Ubuntu-MI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-MI-webfont.woff') format('woff'),
+         url('font/Ubuntu-MI-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-MI-webfont.svg#UbuntuMediumItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuCondensedRegular';
+    src: url('font/Ubuntu-C-webfont.eot');
+    src: url('font/Ubuntu-C-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Ubuntu-C-webfont.woff') format('woff'),
+         url('font/Ubuntu-C-webfont.ttf') format('truetype'),
+         url('font/Ubuntu-C-webfont.svg#UbuntuCondensedRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+/* Generated by Font Squirrel (http://www.fontsquirrel.com) on May 8, 2013 08:05:56 PM America/New_York */
+
+
+
+@font-face {
+    font-family: 'ArvoRegular';
+    src: url('font/Arvo-Regular-webfont.eot');
+    src: url('font/Arvo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Arvo-Regular-webfont.woff') format('woff'),
+         url('font/Arvo-Regular-webfont.ttf') format('truetype'),
+         url('font/Arvo-Regular-webfont.svg#ArvoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ArvoItalic';
+    src: url('font/Arvo-Italic-webfont.eot');
+    src: url('font/Arvo-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Arvo-Italic-webfont.woff') format('woff'),
+         url('font/Arvo-Italic-webfont.ttf') format('truetype'),
+         url('font/Arvo-Italic-webfont.svg#ArvoItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ArvoBold';
+    src: url('font/Arvo-Bold-webfont.eot');
+    src: url('font/Arvo-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Arvo-Bold-webfont.woff') format('woff'),
+         url('font/Arvo-Bold-webfont.ttf') format('truetype'),
+         url('font/Arvo-Bold-webfont.svg#ArvoBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ArvoBoldItalic';
+    src: url('font/Arvo-BoldItalic-webfont.eot');
+    src: url('font/Arvo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Arvo-BoldItalic-webfont.woff') format('woff'),
+         url('font/Arvo-BoldItalic-webfont.ttf') format('truetype'),
+         url('font/Arvo-BoldItalic-webfont.svg#ArvoBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,312 @@
+( °ᵜ°)
+
+Pyton CTF
+https://www.youtube.com/watch?v=c5K1VoTRK5U
+
+Dywergencja i rotacja
+https://www.youtube.com/watch?v=rB83DpBJQsE
+E^iPi=-1
+https://www.youtube.com/watch?v=v0YEaeIClKY
+
+How to Compile C++ Code on Linux (Ubuntu 18)
+https://www.youtube.com/watch?v=qkLRLNVOq3w
+
+ASM
+https://www.youtube.com/watch?v=b0zxIfJJLAY
+ping in asm :- ) https://www.youtube.com/watch?v=SxtX0VWZuME
+memory allocation C++, C, ASM
+https://www.youtube.com/watch?v=HlUBE70h2C0
+
+c++
+https://hackingcpp.com/cpp/lang/fundamental_types.html
+https://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
+  libs
+  https://en.cppreference.com/w/cpp/links/libs
+minGW
+https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html
+
+BOOTLOADER w STM32
+https://www.youtube.com/watch?v=Fvg8vmV8GE8
+
+C++ first person shooter
+https://www.youtube.com/watch?v=HEb2akswCcw
+C++ NeuralNetwork
+https://www.youtube.com/watch?v=k_VdZVJeEyg
+
+
+
+Chess
+https://www.youtube.com/watch?v=U4ogK0MIzqk
+
+Arduino
+https://www.youtube.com/watch?v=bnUpMtUWlvM
+https://www.youtube.com/watch?v=lkTzpQrp1Us
+8-Bit Adder
+https://www.youtube.com/watch?v=X31B1pVow1o
+
+
+VisualStudio
+https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&passive=true&tailored=cplus&cid=2031#cplusplus
+
+https://cpp0x.pl/kursy/Kurs-SFML-1-6-C++/Wczytywanie-i-zapisywanie-plikow-graficznych/332
+https://cpp0x.pl/kursy/Wyswietlanie-sprite-039-ow/96
+graph.h
+https://www.educba.com/c-plus-plus-graphics/
+
+MS Graphcs
+https://learn.microsoft.com/en-us/windows/win32/learnwin32/overview-of-the-windows-graphics-architecture
+
+6502 emulator in C
+https://www.youtube.com/watch?v=qJgsuQoy9bc&t=43s
+
+graphics.h
+https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
+https://learn.microsoft.com/pl-pl/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=msvc-170
+
+graphics  About SDL
+https://www.libsdl.org/
+
+JAVA - PW
+https://www.if.pw.edu.pl/~ertman/pojava/?Laboratorium_4:Klasa_JOptionPane
+JAVA-GRAPHIC LIB
+https://horstmann.com/sjsu/graphics/
+https://www.lwjgl.org/#learn-more
+https://github.com/topics/graphics-library?l=java
+
+
+cMake info
+https://cmake.org/cmake/help/latest/manual/cmake-buildsystem.7.html
+
+Gynveil
+PCI Express to He
+https://www.youtube.com/watch?v=fE0fnGbI8B8
+
+QRcode
+https://www.youtube.com/watch?v=KA8hDldvfv0
+
+muza
+https://www.youtube.com/watch?v=BiyD0h3F28E         darkest ground
+
+https://www.youtube.com/watch?v=RyQxyzth6c4
+https://www.youtube.com/watch?v=2Sy7vIinIV0
+https://www.youtube.com/watch?v=8Ox84dt3N2Y&list=RDK8_7Hr7If3I&index=3
+https://www.youtube.com/watch?v=A9ew7glBHy0&t=1996s
+https://www.youtube.com/watch?v=i1BMGAfAnNs
+https://www.youtube.com/watch?v=krJPMcqNY08
+https://www.youtube.com/watch?v=X3-gM2zNXvw
+https://www.youtube.com/watch?v=FCIoCOo1jbY
+https://www.youtube.com/watch?v=YYYG8meSuZ8
+https://www.youtube.com/watch?v=KJxDvzJyhZ4
+https://www.youtube.com/watch?v=hKe09NhHMAM
+https://www.youtube.com/watch?v=YmGuCkXsjAs
+https://www.youtube.com/watch?v=mkQ6H21QBXE&list=RDmkQ6H21QBXE&index=1
+https://www.youtube.com/watch?v=hY02oEKfPfg
+
+https://www.youtube.com/watch?v=ynzC5eig3H8
+https://www.youtube.com/watch?v=cvWEYkU0r8o
+https://www.youtube.com/watch?v=VFrwlDLo3gs&t=8s
+https://www.youtube.com/watch?v=CDyJOnjpMyY
+https://www.youtube.com/watch?v=VKU-JlPEi6I
+https://www.youtube.com/watch?v=VyQdluGuCw0
+https://www.youtube.com/watch?v=5YVaAGOS5PQ
+https://www.youtube.com/watch?v=_eAkYY5uP7Y&list=RD5YVaAGOS5PQ
+https://www.youtube.com/watch?v=cJs0hmPR3dc
+https://www.youtube.com/watch?v=Yd7vDterctQ
+https://www.youtube.com/watch?v=Lw8QoG2N4h8
+https://www.youtube.com/watch?v=hA_Bm4FDXek
+
+AE
+https://www.youtube.com/watch?v=kUsm27Q4KHU
+
+https://www.youtube.com/watch?v=0MiYELivmXE
+
+
+Windows 11 Intel
+https://www.youtube.com/watch?v=3bwsp4ewziE
+
+
+Celtic
+https://www.youtube.com/watch?v=icPnn6W_kbM
+https://www.youtube.com/watch?v=h_-AHeGO-bE
+
+
+English Mail
+https://www.youtube.com/watch?v=9AY5QnTj-uA
+
+Doom
+https://www.youtube.com/watch?v=GSrF-MGxzuQ
+mario
+https://www.youtube.com/watch?v=n2RzswRLOEM
+
+oscyloskop
+https://www.nutsvolts.com/magazine/article/turn-your-computers-sound-card-into-a-scope
+https://makezine.com/projects/sound-card-oscilloscope/
+https://www.instructables.com/Use-Your-Laptop-as-Oscilloscope/
+
+e^i electrican 
+https://www.youtube.com/watch?v=FCNHN7B9iDM
+
+Programista prenumerata
+https://programistamag.pl/typy-prenumeraty/?fbclid=IwAR1r0eNTA7tCBqygwG4tuErPbeqqNs5wcfYKfJSX6LhkRrvzJn3nKGL1Zo0
+
+giełda el.
+https://elektronika-sklep.pl/akustyka/akcesoria/
+
+BOIS Win Data
+https://www.youtube.com/watch?v=Dd63ZUMW9e4
+
+kregoslup
+https://www.youtube.com/watch?v=_en2CHr4nh4
+
+MoDem:
+https://www.youtube.com/watch?v=xXpokyN1RF8
+
+Czerw nowy debiut
+https://www.youtube.com/watch?v=He3OgczODRc
+https://www.youtube.com/watch?v=ITKSU2zAZqI
+
+MSSQL Dump
+https://en-wiki.ikoula.com/en/Create_a_dump_with_SQL_Server
+
+Qt C++
+http://programmingexamples.wikidot.com/qt-essentials
+
+C - machine learning
+https://www.youtube.com/watch?v=PGSba51aRYU
+
+Ubuntu
+https://wiki.ubuntu.com/HardwareIdentification
+https://pl.wikibooks.org/wiki/Ubuntu/Podstawowe_polecenia#Operacje_na_archiwach
+
+
+SU/DO
+https://www.youtube.com/watch?v=mvvrguzViYY
+
+VMvare 
+https://www.youtube.com/watch?v=LGAZcoCISes
+
+Antena
+https://www.youtube.com/watch?v=Bn5-Edtv2OQ
+
+YomaTech
+https://www.youtube.com/watch?v=Rgx8dpiPwpA
+https://www.youtube.com/@jomaoppa
+https://www.youtube.com/watch?v=sW9npZVpiMI            <- donut
+https://www.youtube.com/watch?v=p09i_hoFdd0            <- rotate box programing
+
+
+sieci Neuronowe
+
+https://www.youtube.com/watch?v=oJNHXPs0XDk
+https://www.youtube.com/watch?v=aircAruvnKk
+https://www.youtube.com/watch?v=w8yWXqWQYmU
+https://www.youtube.com/watch?v=0QczhVg5HaI
+https://www.youtube.com/watch?v=Ixl3nykKG9M
+https://www.youtube.com/watch?v=SmZmBKc7Lrs
+
+https://home.agh.edu.pl/~tad/
+trenowanie
+https://www.youtube.com/watch?v=IC_Dx0J8Fv8
+porównanie CPU-GPU-FPU...
+https://www.youtube.com/watch?v=r5NQecwZs1A
+
+
+wnioskowanie
+https://www.youtube.com/watch?v=WO1gml0EkQI
+
+https://www.youtube.com/shorts/gqsYY4LKwFI
+
+Jetson
+https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT?fbclid=IwAR2vIwRkDms5CYp_yhwRxGKp0Sx-jg3Oi-MrkmMkfcNvBUQvYMGBXyKBxE8
+
+https://www.aaeon.com/en/p/ai-edge-solutions-boxer-8640ai?dl=datasheet&fbclid=IwAR1eMgidzDLaCFIadCbQV_zWwZEQ1u5b7JxcL_r3vwEkNZl4PbbtMCBqvxw
+
+
+konwersja maszyn fizycznych na wirtualne (konwersja partycji)
+https://askubuntu.com/questions/34802/convert-my-physical-operating-system-to-a-virtualbox-disk
+https://www.baeldung.com/linux/virtualbox-create-vm-from-physical
+
+
+
+Yes, however it will most likely take a very long time. I haven't actually tried the steps below, but they should work.
+
+First, you need to make an image of your entire partition. You need to know the partition path of the Ubuntu partition, for example /dev/sda1 would be the first partition on the first attached hard drive.
+
+sudo dd if=PART_PATH of=OUTPUT_PATH/ubuntu.bin
+
+note that you should do the above command from a liveCD with the partition you are trying to copy unmounted -- i.e. you need to have another hard drive or something to copy all the data to.
+
+You can shut the liveCD down and boot back into Ubuntu to perform the last step:
+
+Convert the binary into a vbox drive:
+
+VBoxManage convertdd PATH_TO_ubuntu.bin ubuntu.vdi --format VDI
+
+you can then use the resulting ubuntu.vdi as a Virtualbox drive. Just make sure you have plenty of time and hard drive space for this operation. A little tip: commandline tasks can be suspended by hitting Ctrl+Z. The operation will go to sleep, and you can use you computer again. When you are interested in resuming the process, type fg in the terminal, and the operation will resume. Quite handy for long operations like this.
+
+
+
+
+
+w10
+Computer/HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography : MachineGiud
+
+
+https://williamlam.com/2023/05/quick-tip-preserving-machineguid-in-windows-using-vcenter-converter.html
+
+windows 7 p2v with same uuid
+When performing a P2V (Physical-to-Virtual) migration of a Windows 7 machine, maintaining the same UUID is crucial for various reasons, including preserving software activation and ensuring compatibility with certain applications. Based on the search results and analysis, here’s what you can expect:
+
+The BIOS UUID, also known as the System UUID or FIRMWARE UUID, is typically set by the motherboard vendor and is unique to the physical machine. It is not directly related to the Windows operating system.
+When cloning the physical machine to a virtual one, the BIOS UUID will likely change, as the virtual machine’s firmware is different from the physical machine’s.
+The Windows OS UUID, on the other hand, is set during installation and can be changed using the wmic csproduct get uuid command or through the Windows Registry. This UUID is used for Windows activation and software licensing.
+To maintain the same UUID for Windows 7 during P2V migration, you can:
+
+Use a third-party tool, such as VMware vCenter Converter or Microsoft’s own Microsoft Assessment and Planning Toolkit (MAP), which can preserve the Windows OS UUID during the migration process.
+Manually export and reapply the Windows Registry values related to the UUID using the reg command or a registry editor like Regedit.
+Re-activate Windows 7 using the original product key after the migration, as the new virtual machine will have a different hardware configuration.
+In summary, while the BIOS UUID will change during P2V migration, you can take steps to preserve the Windows OS UUID and ensure a seamless transition to the virtual environment.
+
+Here’s a code example in PowerShell to export and reapply the Windows OS UUID Registry values:
+
+# Export current UUID Registry values
+$uuidRegKeys = @(
+  "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\UUid",
+  "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\VolumeUUID"
+)
+$uuidValues = @()
+foreach ($regKey in $uuidRegKeys) {
+  $uuidValue = (Get-ItemProperty -Path $regKey).UUid
+  $uuidValues += $uuidValue
+}
+
+# Reapply UUID Registry values on the virtual machine
+foreach ($uuidValue in $uuidValues) {
+  Set-ItemProperty -Path $regKey -Name UUid -Value $uuidValue
+}
+
+
+https://williamlam.com/2023/05/quick-tip-preserving-machineguid-in-windows-using-vcenter-converter.html
+
+
+wmic path win32_computersystemproduct get UUID
+UUID
+035E02D8-04D3-0501-D506-410700080009
+
+
+BuildGUID
+7b7c15f9-747a-455f-9ba5-f521dde4252d
+
+DigitalProductId
+00359-OEM-9828611-20151
+
+
+Tensorflow
+https://www.youtube.com/watch?v=pDR5UZtW2Us
+https://youtube.com/shorts/HNW12wUmdV4?si=D0JrENKBCx5u2JY3
+
+
+DiscClass={4d36e967-e325-11ce-bfc1-08002be10318}
+STORAGE\Volume\{b818a9ae-d017-11ec-9254-806e6f6e6963}#0000000000100000
+
+

@@ -1,0 +1,48 @@
+package com.heinzelman.dedra.repository;
+
+import com.heinzelman.dedra.model.DBFrag;
+import com.heinzelman.dedra.model.IdCode;
+import com.heinzelman.dedra.service.IdCodeService;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+
+import javax.persistence.Id;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+@DataJpaTest
+/*
+@DataJpaTest(properties = {
+        "spring.test.database.replace=NONE",
+        "spring.datasource.url=jdbc:mysql://127.0.0.1:3306/dedra_test?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC",
+        "spring.datasource.username=user",
+        "spring.datasource.password=pass",
+
+        "spring.jpa.hibernate.ddl-auto=create",
+        "spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect",
+        "spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver"
+})
+ */
+class DBFragRepoTest {
+
+    @Autowired
+    private DBFragRepo dbFragRepo;
+
+    @Autowired
+    private IdCodeRepo idCodeRepo;
+
+    @BeforeEach
+    void setUp() {
+    }
+
+    @Test
+    void constructor_EmptyParam_NotNull(){
+        DBFrag dbf = new DBFrag();
+        IdCode idCode = new IdCode( "cons1" );
+               idCode = idCodeRepo.save(idCode);
+
+                dbf.setIdCode( idCode );
+        assertNotNull( dbFragRepo.save( dbf ) );
+    }

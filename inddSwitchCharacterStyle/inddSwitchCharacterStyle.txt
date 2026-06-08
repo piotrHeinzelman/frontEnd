@@ -1,0 +1,23 @@
+var doc=app.activeDocument;
+var P = doc.stories[0].paragraphs[0];
+
+var CStyle=doc.characterStyles;
+var CS1  = CStyle.itemByName("CBold");
+var CS2  = CStyle.itemByName("CBoldRed");
+var CS3  = CStyle.itemByName("CBoldStrike");
+var CS4  = CStyle.itemByName("CFirstLine");
+
+for ( var i=0; i<P.characters.length ; i++) {
+    var ch=P.characters.item(i);
+    var ACS = ch.appliedCharacterStyle;
+ //   alert (ACS==CS4 );
+    switch( ACS ) {
+            case CS1:  alert(CS3.name); break;
+            case CS2:  alert(CS3.name); break;
+            case CS3:  alert(CS3.name); break;
+            case CS4:  alert(CS4.name); break;
+            case "CBoldStrike":  alert("x"); break;
+            default: break;
+        }
+    
+    }
